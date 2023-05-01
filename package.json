@@ -1,0 +1,26 @@
+{
+  "name": "geros",
+  "version": "1.0.0",
+  "description": "A Instagram client library for NodeJS that connects through the Instagram Web browser app",
+  "main": "src/Client.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fzrilsh/Geros.git"
+  },
+  "keywords": [
+    "instagram",
+    "client"
+  ],
+  "author": "fzrilsh",
+  "license": "GPL-3.0 license",
+  "bugs": {
+    "url": "https://github.com/fzrilsh/Geros/issues"
+  },
+  "homepage": "https://github.com/fzrilsh/Geros#readme",
+  "dependencies": {
+    "puppeteer": "^19.4.1"
+  }
+}
