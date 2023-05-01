@@ -1,6 +1,6 @@
 {
   "name": "geros",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "description": "A Instagram client library for NodeJS that connects through the Instagram Web browser app",
   "main": "src/Client.js",
   "scripts": {
@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/fzrilsh/Geros#readme",
   "dependencies": {
+    "axios": "^1.4.0",
     "puppeteer": "^19.4.1"
   }
 }

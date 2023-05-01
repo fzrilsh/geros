@@ -9,11 +9,11 @@ async function run() {
     client.on('ready', console.log)
     client.on('newDM', function(data){
         console.log(data)
-        data.reply('whats up')
+        // data.reply('woyyy')
     })
 }
 
-const username = 'instagram_account'
-const password = 'instagram_account_password'
+const username = 'veralsh_'
+const password = 'Fazril180307_'
 
 run()
