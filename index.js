@@ -13,7 +13,7 @@ async function run() {
     })
 }
 
-const username = 'veralsh_'
-const password = 'Fazril180307_'
+const username = 'username'
+const password = 'password'
 
 run()
